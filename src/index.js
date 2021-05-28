@@ -286,14 +286,14 @@ SmoothPinCodeInput.propTypes = {
 
   restrictToNumbers: PropTypes.bool,
 
-  containerStyle: ViewPropTypes.style,
+  // containerStyle: ViewPropTypes.style,
 
-  cellStyle: ViewPropTypes.style,
-  cellStyleFocused: ViewPropTypes.style,
-  cellStyleFilled: ViewPropTypes.style,
+  // cellStyle: ViewPropTypes.style,
+  // cellStyleFocused: ViewPropTypes.style,
+  // cellStyleFilled: ViewPropTypes.style,
 
-  textStyle: Text.propTypes.style,
-  textStyleFocused: Text.propTypes.style,
+  // textStyle: Text.propTypes.style,
+  // textStyleFocused: Text.propTypes.style,
 
   animated: PropTypes.bool,
   animationFocused: PropTypes.oneOfType([
